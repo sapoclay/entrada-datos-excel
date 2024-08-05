@@ -1,5 +1,7 @@
 # Formulario de Entrada de Datos en Excel
 
+![datos-entrada](https://github.com/user-attachments/assets/a0e0e652-7122-4d9a-a20a-5e98bb7f1bfb)
+
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando `tkinter` para crear una interfaz gráfica y `openpyxl` para manejar archivos Excel. Permite a los usuarios ingresar datos en un formulario y guardar esos datos en un archivo Excel. También ofrece la funcionalidad de abrir el archivo Excel desde la aplicación y sumar los valores en la columna de "Transacción".
 
 ## Requisitos
@@ -41,6 +43,8 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
     Si deseas abrir el archivo Excel directamente desde la aplicación, haz clic en "Abrir Archivo". Si el archivo aún no ha sido creado, recibirás un mensaje de advertencia.
 
 ## Descripción de Funcionalidades
+
+![listado-excel](https://github.com/user-attachments/assets/11a89671-50b3-4b53-b53d-e7ad8d2e4ce6)
 
 - **Formulario de Entrada de Datos**:
   - Campos: Nombre, Edad, Email, Teléfono, Dirección, Transacción.
